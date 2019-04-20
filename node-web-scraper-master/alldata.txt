@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://techathonlab.com/xmlrpc.php">
+
+<title>Techathonlab &#8211; Deliver more then expectation</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Techathonlab &raquo; Feed" href="http://techathonlab.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Techathonlab &raquo; Comments Feed" href="http://techathonlab.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/techathonlab.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://techathonlab.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://techathonlab.com/wp-content/themes/total/css/animate.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://techathonlab.com/wp-content/themes/total/css/font-awesome.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://techathonlab.com/wp-content/themes/total/css/owl.carousel.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo-lightbox-css'  href='http://techathonlab.com/wp-content/themes/total/css/nivo-lightbox.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://techathonlab.com/wp-content/themes/total/css/superfish.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='total-style-css'  href='http://techathonlab.com/wp-content/themes/total/style.css?ver=1.0' type='text/css' media='all' />
+<style id='total-style-inline-css' type='text/css'>
+button,input[type='button'],input[type='reset'],input[type='submit'],.widget-area .widget-title:after,h3#reply-title:after,h3.comments-title:after,.nav-previous a,.nav-next a,.pagination .page-numbers,.ht-main-navigation li:hover > a,.page-template-home-template .ht-main-navigation li:hover > a,.home.blog .ht-main-navigation li:hover > a,.ht-main-navigation .current_page_item > a,.ht-main-navigation .current-menu-item > a,.ht-main-navigation .current_page_ancestor > a,.page-template-home-template .ht-main-navigation .current > a,.home.blog .ht-main-navigation .current > a,.ht-slide-cap-title span,.ht-progress-bar-length,#ht-featured-post-section,.ht-featured-icon,.ht-service-post-wrap:after,.ht-service-icon,.ht-team-social-id a,.ht-counter:after,.ht-counter:before,.ht-testimonial-wrap .owl-carousel .owl-nav .owl-prev,.ht-testimonial-wrap .owl-carousel .owl-nav .owl-next,.ht-blog-read-more a,.ht-cta-buttons a.ht-cta-button1,.ht-cta-buttons a.ht-cta-button2:hover,#ht-back-top:hover,.entry-readmore a,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product:hover .button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce nav.woocommerce-pagination ul li a,.woocommerce nav.woocommerce-pagination ul li span,.woocommerce span.onsale,.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce #respond input#submit.disabled,.woocommerce #respond input#submit:disabled,.woocommerce #respond input#submit:disabled[disabled],.woocommerce a.button.disabled,.woocommerce a.button:disabled,.woocommerce a.button:disabled[disabled],.woocommerce button.button.disabled,.woocommerce button.button:disabled,.woocommerce button.button:disabled[disabled],.woocommerce input.button.disabled,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-MyAccount-navigation-link a{background:#e0a962}
+a,a:hover,.ht-post-info .entry-date span.ht-day,.entry-categories .fa,.widget-area a:hover,.comment-list a:hover,.no-comments,.ht-site-title a,.woocommerce .woocommerce-breadcrumb a:hover,#total-breadcrumbs a:hover,.ht-featured-link a,.ht-portfolio-cat-name-list .fa,.ht-portfolio-cat-name:hover,.ht-portfolio-cat-name.active,.ht-portfolio-caption a,.ht-team-detail,.ht-counter-icon,.woocommerce ul.products li.product .price,.woocommerce div.product p.price,.woocommerce div.product span.price,.woocommerce .product_meta a:hover,.woocommerce-error:before,.woocommerce-info:before,.woocommerce-message:before{color:#e0a962}
+.ht-main-navigation ul ul,.ht-featured-link a,.ht-counter,.ht-testimonial-wrap .owl-item img,.ht-blog-post,#ht-colophon,.woocommerce ul.products li.product:hover,.woocommerce-page ul.products li.product:hover,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product:hover .button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce div.product .woocommerce-tabs ul.tabs,.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle{border-color:#e0a962}
+#ht-masthead,.woocommerce-error,.woocommerce-info,.woocommerce-message{border-top-color:#e0a962}
+.nav-next a:after{border-left-color:#e0a962}
+.nav-previous a:after{border-right-color:#e0a962}
+.ht-active .ht-service-icon{box-shadow:0px 0px 0px 2px #FFF,0px 0px 0px 4px #e0a962}
+.woocommerce ul.products li.product .onsale:after{border-color:transparent transparent #ca9858 #ca9858}
+.woocommerce span.onsale:after{border-color:transparent #ca9858 #ca9858 transparent}
+.ht-portfolio-caption,.ht-team-member-excerpt,.ht-title-wrap{background:rgba(224,169,98,0.9)}
+@media screen and (max-width:1000px){.toggle-bar,.ht-main-navigation .ht-menu{background:#e0a962}}
+</style>
+<link rel='stylesheet' id='total-fonts-css'  href='//fonts.googleapis.com/css?family=Pontano+Sans|Oswald:400,700,300&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/SmoothScroll.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/jquery.stellar.js?ver=1.00'></script>
+<link rel='https://api.w.org/' href='http://techathonlab.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://techathonlab.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://techathonlab.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<link rel="canonical" href="http://techathonlab.com/" />
+<link rel='shortlink' href='http://techathonlab.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://techathonlab.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftechathonlab.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://techathonlab.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftechathonlab.com%2F&#038;format=xml" />
+<style>.ht-service-left-bg{ background-image:url(http://techathonlab.com/wp-content/uploads/2018/03/banner2.jpg);}#ht-counter-section{ background-image:url();}#ht-cta-section{ background-image:url();}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+<body class="home page-template page-template-templates page-template-home-template page-template-templateshome-template-php page page-id-5 wp-custom-logo ht_no_sidebar ht-sticky-header columns-3">
+<div id="ht-page">
+	<header id="ht-masthead" class="ht-site-header">
+		<div class="ht-container ht-clearfix">
+			<div id="ht-site-branding">
+				<a href="http://techathonlab.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="581" height="120" src="http://techathonlab.com/wp-content/uploads/2018/07/cropped-logo-1.png" class="custom-logo" alt="Techathonlab" itemprop="logo" srcset="http://techathonlab.com/wp-content/uploads/2018/07/cropped-logo-1.png 581w, http://techathonlab.com/wp-content/uploads/2018/07/cropped-logo-1-300x62.png 300w" sizes="(max-width: 581px) 100vw, 581px" /></a>			</div><!-- .site-branding -->
+
+			<nav id="ht-site-navigation" class="ht-main-navigation">
+				<div class="toggle-bar"><span></span></div>
+				<div class="ht-menu ht-clearfix"><ul id="menu-menu-1" class="ht-clearfix"><li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-99"><a href="http://techathonlab.com/" aria-current="page">Home</a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://techathonlab.com/about-us/">About Us</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-176"><a href="http://techathonlab.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="http://techathonlab.com/services/e-commerce-website-development/">E-Commerce Website Development</a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="http://techathonlab.com/services/web-designing/">Web Designing</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="http://techathonlab.com/services/android-applications/">Android Applications</a></li>
+	<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="http://techathonlab.com/services/ios-applications/">Ios Applications</a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="http://techathonlab.com/services/customized-software-development/">Customized Software Development</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="http://techathonlab.com/services/cloud-application/">Cloud Application</a></li>
+</ul>
+</li>
+<li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="http://techathonlab.com/portfolio/">Portfolio</a></li>
+<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="http://techathonlab.com/blogs/">Blogs</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://techathonlab.com/contact/">Contact Us</a></li>
+</ul></div>			</nav><!-- #ht-site-navigation -->
+		</div>
+	</header><!-- #ht-masthead -->
+
+	<div id="ht-content" class="ht-site-content ht-clearfix">
+<div id="ht-home-slider-section">
+	<div id="ht-bx-slider" class="owl-carousel">
+					<div class="ht-slide">
+					<div class="ht-slide-overlay"></div>
+
+					<img alt="Loyalty" src="http://techathonlab.com/wp-content/uploads/2018/02/banner.jpg">				
+					<div class="ht-slide-caption">
+						<div class="ht-slide-cap-title">
+							<span>Loyalty</span>
+						</div>
+
+						<div class="ht-slide-cap-desc">
+							We are constantly looking out for the best interest of our customers ,even after the invoice. For example, if we come across an article, report or idea that will help your business or benefit you in any way ,you can expect us to pass it along.						</div>
+					</div>
+				</div>
+								<div class="ht-slide">
+					<div class="ht-slide-overlay"></div>
+
+					<img alt="Honesty" src="http://techathonlab.com/wp-content/uploads/2018/03/banner2.jpg">				
+					<div class="ht-slide-caption">
+						<div class="ht-slide-cap-title">
+							<span>Honesty</span>
+						</div>
+
+						<div class="ht-slide-cap-desc">
+							We believe in people doing business together, not faceless paper-trailed entities. We will never hide behind a &quot;corporate policy&quot;.						</div>
+					</div>
+				</div>
+								<div class="ht-slide">
+					<div class="ht-slide-overlay"></div>
+
+					<img alt="Value" src="http://techathonlab.com/wp-content/uploads/2018/03/banner3.jpg">				
+					<div class="ht-slide-caption">
+						<div class="ht-slide-cap-title">
+							<span>Value</span>
+						</div>
+
+						<div class="ht-slide-cap-desc">
+							We will not compromise quality for quantity because it&#039;s always more difficult and expensive to correct problems in the future. We will not release &quot;quick and dirty&quot; solutions through our quality assurance standards.						</div>
+					</div>
+				</div>
+					</div>
+</div><section id="ht-about-us-section" class="ht-section">
+	<div class="ht-container ht-clearfix">
+		<div class="ht-about-sec">
+		
+			<div class="ht-progress-bar-sec">
+							<div class="ht-progress">
+					<h6>Salesforce Developement</h6>
+					<div class="ht-progress-bar">
+						<div class="ht-progress-bar-length" style="width:85%">
+							<span>85%</span>
+						</div>
+					</div>
+				</div>
+								<div class="ht-progress">
+					<h6>PHP Developement</h6>
+					<div class="ht-progress-bar">
+						<div class="ht-progress-bar-length" style="width:75%">
+							<span>75%</span>
+						</div>
+					</div>
+				</div>
+								<div class="ht-progress">
+					<h6>ASP Development</h6>
+					<div class="ht-progress-bar">
+						<div class="ht-progress-bar-length" style="width:68%">
+							<span>68%</span>
+						</div>
+					</div>
+				</div>
+								<div class="ht-progress">
+					<h6>Android Development</h6>
+					<div class="ht-progress-bar">
+						<div class="ht-progress-bar-length" style="width:62%">
+							<span>62%</span>
+						</div>
+					</div>
+				</div>
+								<div class="ht-progress">
+					<h6>IOS Developement</h6>
+					<div class="ht-progress-bar">
+						<div class="ht-progress-bar-length" style="width:66%">
+							<span>66%</span>
+						</div>
+					</div>
+				</div>
+							</div>
+		</div>
+
+		<div class="ht-about-image">
+		<img alt="Value" src="http://techathonlab.com/wp-content/uploads/2018/02/project.jpg"/>		</div>
+		
+	</div>
+</section>
+<section id="ht-service-post-section" class="ht-section">
+	<div class="ht-service-left-bg"></div>
+	<div class="ht-container">
+		<div class="ht-service-posts ht-clearfix">
+						
+			<div class="ht-service-post-wrap">
+											<div class="ht-service-post ht-clearfix">
+								<div class="ht-service-icon"><i class="fa fa-shopping-cart"></i></div>
+								<div class="ht-service-excerpt">
+									<h5>E-Commerce Website Development</h5>
+									<div class="ht-service-text">
+									[siteorigin_widget class="WP_Widget_Media_Image"][/siteorigin_widget]
+
+	The E-Commerce market has se...									 <br/>
+									 <a href="http://techathonlab.com/services/e-commerce-website-development/">Read More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									 </div>
+								</div>
+							</div>
+													<div class="ht-service-post ht-clearfix">
+								<div class="ht-service-icon"><i class="fa fa-desktop"></i></div>
+								<div class="ht-service-excerpt">
+									<h5>Web Designing</h5>
+									<div class="ht-service-text">
+									[siteorigin_widget class="WP_Widget_Media_Image"][/siteorigin_widget]
+
+	Techathonlab has an expertis									 <br/>
+									 <a href="http://techathonlab.com/services/web-designing/">Read More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									 </div>
+								</div>
+							</div>
+													<div class="ht-service-post ht-clearfix">
+								<div class="ht-service-icon"><i class="fa fa-mobile-phone"></i></div>
+								<div class="ht-service-excerpt">
+									<h5>Android Applications</h5>
+									<div class="ht-service-text">
+									[siteorigin_widget class="WP_Widget_Media_Image"][/siteorigin_widget]
+
+	Over the years there has bee...									 <br/>
+									 <a href="http://techathonlab.com/services/android-applications/">Read More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									 </div>
+								</div>
+							</div>
+													<div class="ht-service-post ht-clearfix">
+								<div class="ht-service-icon"><i class="fa fa-tablet"></i></div>
+								<div class="ht-service-excerpt">
+									<h5>Ios Applications</h5>
+									<div class="ht-service-text">
+									[siteorigin_widget class="WP_Widget_Media_Image"][/siteorigin_widget]
+
+	Over the years there has bee...									 <br/>
+									 <a href="http://techathonlab.com/services/ios-applications/">Read More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									 </div>
+								</div>
+							</div>
+													<div class="ht-service-post ht-clearfix">
+								<div class="ht-service-icon"><i class="fa fa-cogs"></i></div>
+								<div class="ht-service-excerpt">
+									<h5>Customized Software Development</h5>
+									<div class="ht-service-text">
+									[siteorigin_widget class="WP_Widget_Media_Image"][/siteorigin_widget]
+
+	Software that makes work eas...									 <br/>
+									 <a href="http://techathonlab.com/services/customized-software-development/">Read More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									 </div>
+								</div>
+							</div>
+													<div class="ht-service-post ht-clearfix">
+								<div class="ht-service-icon"><i class="fa fa-skyatlas"></i></div>
+								<div class="ht-service-excerpt">
+									<h5>Cloud Application</h5>
+									<div class="ht-service-text">
+									[siteorigin_widget class="WP_Widget_Media_Image"][/siteorigin_widget]
+
+	
+
+Whether you are running ap...									 <br/>
+									 <a href="http://techathonlab.com/services/cloud-application/">Read More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+									 </div>
+								</div>
+							</div>
+									</div>
+		</div>
+	</div>
+</section>
+<section id="ht-counter-section" data-stellar-background-ratio="0.5">
+    <div class="ht-counter-section ht-section">
+    <div class="ht-counter-overlay"></div>
+    	<div class="ht-container">
+    		    		    
+    		<div class="ht-team-counter-wrap ht-clearfix">
+    			    					<div class="ht-counter">
+    						<div class="ht-counter-icon">
+    							<i class="fa fa-desktop"></i>
+    						</div>
+    
+    						<div class="ht-counter-count odometer odometer1" data-count="100">
+    							99
+    						</div>
+    
+    						<h6 class="ht-counter-title">
+    							Web App Development    						</h6>
+    					</div>
+    					    					<div class="ht-counter">
+    						<div class="ht-counter-icon">
+    							<i class="fa fa-tablet"></i>
+    						</div>
+    
+    						<div class="ht-counter-count odometer odometer2" data-count="25">
+    							99
+    						</div>
+    
+    						<h6 class="ht-counter-title">
+    							Mobile App Development    						</h6>
+    					</div>
+    					    					<div class="ht-counter">
+    						<div class="ht-counter-icon">
+    							<i class="fa fa-users"></i>
+    						</div>
+    
+    						<div class="ht-counter-count odometer odometer3" data-count="40">
+    							99
+    						</div>
+    
+    						<h6 class="ht-counter-title">
+    							Satisfied Clients    						</h6>
+    					</div>
+    					    					<div class="ht-counter">
+    						<div class="ht-counter-icon">
+    							<i class="fa fa-cogs"></i>
+    						</div>
+    
+    						<div class="ht-counter-count odometer odometer4" data-count="6">
+    							99
+    						</div>
+    
+    						<h6 class="ht-counter-title">
+    							Countries We Serve In    						</h6>
+    					</div>
+    					    		</div>
+    	</div>
+    </div>
+</section>
+<section id="ht-testimonial-section" class="ht-section">
+	<div class="ht-container">
+				
+		<div class="ht-testimonial-wrap">
+			<div class="ht-testimonial-slider owl-carousel">
+						</div>
+		</div>
+	</div>	
+</section>
+<section id="ht-blog-section" class="ht-section">
+	<div class="ht-container">
+				
+		<div class="ht-blog-wrap ht-clearfix">
+						<div class="ht-blog-post ht-clearfix">
+					 
+						<div class="ht-blog-thumbnail">
+							<a href="http://techathonlab.com/2018/08/23/what-is-blockchain-technology/"><img src="http://techathonlab.com/wp-content/uploads/2018/08/Blockchain-Thunder-Network-Mobiloitte-400x280.png" alt="What is Blockchain Technology?"></a>
+						</div>
+										<div class="ht-blog-excerpt">
+					<h5><a href="http://techathonlab.com/2018/08/23/what-is-blockchain-technology/">What is Blockchain Technology?</a></h5>
+					<div class="ht-blog-date"><i class="fa fa-calendar-o" aria-hidden="true"></i>August 23, 2018</div>
+						What is Blockchain Technology?			Today&#8217;s Technological Era, People goes crazy over Blockchain Technology. But, Wait are you really know what Blockchain exactly is or Why people go craz...					</div>
+
+					<div class="ht-blog-read-more">
+						<a href="http://techathonlab.com/2018/08/23/what-is-blockchain-technology/">Read More</a>
+					</div>
+				</div>
+								<div class="ht-blog-post ht-clearfix">
+					 
+						<div class="ht-blog-thumbnail">
+							<a href="http://techathonlab.com/2018/02/20/how-to-restore-your-whatsapp-account-in-case-you-lose-your-phone-or-its-gets-stolen/"><img src="http://techathonlab.com/wp-content/uploads/2018/02/4.jpg" alt="How to restore your WhatsApp account in case you lose your phone or its gets stolen"></a>
+						</div>
+										<div class="ht-blog-excerpt">
+					<h5><a href="http://techathonlab.com/2018/02/20/how-to-restore-your-whatsapp-account-in-case-you-lose-your-phone-or-its-gets-stolen/">How to restore your WhatsApp account in case you lose your phone or its gets stolen</a></h5>
+					<div class="ht-blog-date"><i class="fa fa-calendar-o" aria-hidden="true"></i>February 20, 2018</div>
+						How to restore your WhatsApp account in case you lose your phone or its gets stolen			Losing a smartphone in today&#8217;s day and age is nothing less than a nightmare. For, so much of our d...					</div>
+
+					<div class="ht-blog-read-more">
+						<a href="http://techathonlab.com/2018/02/20/how-to-restore-your-whatsapp-account-in-case-you-lose-your-phone-or-its-gets-stolen/">Read More</a>
+					</div>
+				</div>
+								<div class="ht-blog-post ht-clearfix">
+					 
+						<div class="ht-blog-thumbnail">
+							<a href="http://techathonlab.com/2018/02/20/how-to-restore-deleted-google-contacts/"><img src="http://techathonlab.com/wp-content/uploads/2018/02/3.jpg" alt="How to restore deleted Google contacts"></a>
+						</div>
+										<div class="ht-blog-excerpt">
+					<h5><a href="http://techathonlab.com/2018/02/20/how-to-restore-deleted-google-contacts/">How to restore deleted Google contacts</a></h5>
+					<div class="ht-blog-date"><i class="fa fa-calendar-o" aria-hidden="true"></i>February 20, 2018</div>
+						How to restore deleted Google contacts			We all know that our phone contacts play a very crucial role and it keeps us connected with our friends and business associates. But many a times, we...					</div>
+
+					<div class="ht-blog-read-more">
+						<a href="http://techathonlab.com/2018/02/20/how-to-restore-deleted-google-contacts/">Read More</a>
+					</div>
+				</div>
+						</div>	
+	</div>
+</section>
+<section id="ht-logo-section" class="ht-section">
+	<div class="ht-container">
+				
+		
+		<div class="ht_client_logo_slider owl-carousel">
+					<img src="http://techathonlab.com/wp-content/uploads/2018/03/salesforce.png">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/websitephpwithmysql.jpg">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/angularjsframework.png">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/websitenodejs.jpg">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/websiteasp_net.jpg">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/websitejavaoracle.jpg">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/websiteandroid.jpg">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/websiteios.jpg">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/laravel.jpg">
+						<img src="http://techathonlab.com/wp-content/uploads/2018/03/websitewordpress.jpg">
+					</div>
+	</div>
+</section>
+
+	</div><!-- #content -->
+
+	<footer id="ht-colophon" class="ht-site-footer">
+				<div id="ht-top-footer">
+			<div class="ht-container">
+				<div class="ht-top-footer ht-clearfix">
+					<div class="ht-footer ht-footer1">
+								<aside id="recent-posts-4" class="widget widget_recent_entries">		<h4 class="widget-title">Recent Posts</h4>		<ul>
+											<li>
+					<a href="http://techathonlab.com/2018/08/23/what-is-blockchain-technology/">What is Blockchain Technology?</a>
+									</li>
+											<li>
+					<a href="http://techathonlab.com/2018/02/20/how-to-restore-your-whatsapp-account-in-case-you-lose-your-phone-or-its-gets-stolen/">How to restore your WhatsApp account in case you lose your phone or its gets stolen</a>
+									</li>
+											<li>
+					<a href="http://techathonlab.com/2018/02/20/how-to-restore-deleted-google-contacts/">How to restore deleted Google contacts</a>
+									</li>
+											<li>
+					<a href="http://techathonlab.com/2018/02/20/facebook-forges-ahead-with-kids-app-despite-expert-criticism/">Facebook forges ahead with kids app despite expert criticism</a>
+									</li>
+											<li>
+					<a href="http://techathonlab.com/2018/02/20/google-testing-new-technology-to-improve-911-system/">Google testing new technology to improve 911 system</a>
+									</li>
+					</ul>
+		</aside>	
+					</div>
+
+					<div class="ht-footer ht-footer2">
+						<aside id="recent-comments-6" class="widget widget_recent_comments"><h4 class="widget-title">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">subhash panchani</span> on <a href="http://techathonlab.com/2018/02/20/facebook-forges-ahead-with-kids-app-despite-expert-criticism/#comment-2">Facebook forges ahead with kids app despite expert criticism</a></li><li class="recentcomments"><span class="comment-author-link">ParasPolra</span> on <a href="http://techathonlab.com/2018/02/20/google-testing-new-technology-to-improve-911-system/#comment-1">Google testing new technology to improve 911 system</a></li></ul></aside>	
+					</div>
+
+					<div class="ht-footer ht-footer3">
+						<aside id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widget-title">Navigate To</h4><div class="menu-menu-1-container"><ul id="menu-menu-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-99"><a href="http://techathonlab.com/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://techathonlab.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-176"><a href="http://techathonlab.com/services/">Services</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="http://techathonlab.com/services/e-commerce-website-development/">E-Commerce Website Development</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="http://techathonlab.com/services/web-designing/">Web Designing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="http://techathonlab.com/services/android-applications/">Android Applications</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="http://techathonlab.com/services/ios-applications/">Ios Applications</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="http://techathonlab.com/services/customized-software-development/">Customized Software Development</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="http://techathonlab.com/services/cloud-application/">Cloud Application</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="http://techathonlab.com/portfolio/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="http://techathonlab.com/blogs/">Blogs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://techathonlab.com/contact/">Contact Us</a></li>
+</ul></div></aside>	
+					</div>
+
+					<div class="ht-footer ht-footer4">
+							
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="ht-bottom-footer">
+			<div class="ht-container">
+				<div class="ht-site-info">
+					@2018 All Rights Reserved
+					<span class="sep"> | </span>
+					<a href="http://techathonlab.com" target="_self"><span class="th_fotter_label">Techathonlab</span></a>
+				</div><!-- #site-info -->
+			</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<div id="ht-back-top" class="ht-hide"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/jquery.nav.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/owl.carousel.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/isotope.pkgd.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/nivo-lightbox.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/superfish.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/wow.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/odometer.js?ver=1.00'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/waypoint.js?ver=1.00'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var total_localize = {"template_path":"http:\/\/techathonlab.com\/wp-content\/themes\/total"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://techathonlab.com/wp-content/themes/total/js/total-custom.js?ver=1.01'></script>
+<script type='text/javascript' src='http://techathonlab.com/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+
+</body>
+</html>
